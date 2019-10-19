@@ -1,0 +1,9 @@
+language: node_js
+deploy:
+  provider: pages
+  edge: true # For dpl v2 developer preview
+  # skip_cleanup: true # This is default in dpl v2
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  # keep_history: true # This is default in dpl v2
+  on:
+    branch: gh-pages
