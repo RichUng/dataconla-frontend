@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ignore Read the Docs rendered files
+docs/_build
+docs/_static
+docs/_templates
