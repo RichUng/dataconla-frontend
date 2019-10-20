@@ -9,4 +9,4 @@ deploy:
   # keep_history: true # This is default in dpl v2
   local_dir: build
   on:
-    branch: gh-pages
+    branch: master
