@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4233bae286c97b95952b220f6f0d3851",
+    "revision": "97057219fe42443ea0f62df41738d9d4",
     "url": "/dataconla-frontend/index.html"
   },
   {
-    "revision": "a422bacd5b12bf559050",
+    "revision": "1573f2711100af026f43",
     "url": "/dataconla-frontend/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dataconla-frontend/static/js/2.a752cf04.chunk.js"
   },
   {
-    "revision": "a422bacd5b12bf559050",
-    "url": "/dataconla-frontend/static/js/main.8190e503.chunk.js"
+    "revision": "1573f2711100af026f43",
+    "url": "/dataconla-frontend/static/js/main.623dc19a.chunk.js"
   },
   {
     "revision": "0d29ac89403e9f2a61cf",
