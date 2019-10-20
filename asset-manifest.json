@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.18437dfd.chunk.js",
-    "main.js.map": "/static/js/main.18437dfd.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.4351b628.js",
-    "runtime~main.js.map": "/static/js/runtime~main.4351b628.js.map",
-    "static/js/2.a752cf04.chunk.js": "/static/js/2.a752cf04.chunk.js",
-    "static/js/2.a752cf04.chunk.js.map": "/static/js/2.a752cf04.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.46c2bb89e28a4c0fd633e58fe81829a8.js": "/precache-manifest.46c2bb89e28a4c0fd633e58fe81829a8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/dataconla-frontend/static/css/main.2cce8147.chunk.css",
+    "main.js": "/dataconla-frontend/static/js/main.8190e503.chunk.js",
+    "main.js.map": "/dataconla-frontend/static/js/main.8190e503.chunk.js.map",
+    "runtime~main.js": "/dataconla-frontend/static/js/runtime~main.165dcc7f.js",
+    "runtime~main.js.map": "/dataconla-frontend/static/js/runtime~main.165dcc7f.js.map",
+    "static/js/2.a752cf04.chunk.js": "/dataconla-frontend/static/js/2.a752cf04.chunk.js",
+    "static/js/2.a752cf04.chunk.js.map": "/dataconla-frontend/static/js/2.a752cf04.chunk.js.map",
+    "index.html": "/dataconla-frontend/index.html",
+    "precache-manifest.ddc931155132f799906af48894abcd0d.js": "/dataconla-frontend/precache-manifest.ddc931155132f799906af48894abcd0d.js",
+    "service-worker.js": "/dataconla-frontend/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/dataconla-frontend/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/dataconla-frontend/static/media/logo.5d5d9eef.svg"
   }
 }
