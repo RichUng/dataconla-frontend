@@ -3,13 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   travis
-   readthedocs
-
 Welcome to Data Con LA Website Frontend's documentation!
 ========================================================
 
@@ -28,6 +21,13 @@ Reference Links
 - `GitHub Pages <https://richung.github.io/dataconla-frontend/>`_
 - `Travis CI <https://travis-ci.org/RichUng/dataconla-frontend>`_
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   travis
+   readthedocs
 
 
 Indices and tables
