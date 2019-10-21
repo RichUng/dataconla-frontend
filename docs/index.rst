@@ -3,6 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   travis
+   readthedocs
+
 Welcome to Data Con LA Website Frontend's documentation!
 ========================================================
 
@@ -14,10 +21,6 @@ Welcome to Data Con LA Website Frontend's documentation!
    :alt: Documentation Status
 
 This documentation is a guide to give volunteers the necessary skills and knowledge to help contribute to the `Data Con LA website <https://www.dataconla.com>`_. This documentaton is also a place for volunteers to record and learn more about various concepts, skills, and topics that contributed to the development of this website.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 Reference Links
 ---------------
