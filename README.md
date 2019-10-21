@@ -1,3 +1,15 @@
+# Data Con LA Website Readme
+
+[![Build Status](https://travis-ci.org/RichUng/dataconla-frontend.svg?branch=master)](https://travis-ci.org/RichUng/dataconla-frontend)
+[![Documentation Status](https://readthedocs.org/projects/dataconla-frontend/badge/?version=latest)](https://dataconla-frontend.readthedocs.io/en/latest/?badge=latest)
+
+## Quick Links
+* [Website Documentation](https://dataconla-frontend.readthedocs.io/)
+* [Data Con LA Website](https://richung.github.io/dataconla-frontend/) (React version, based on this repository)
+* [Data Con LA Website](https://www.dataconla.com/) (Wordpress version)
+
+# Create React App Readme.md
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
