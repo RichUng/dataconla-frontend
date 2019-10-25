@@ -26,6 +26,7 @@ Reference Links
    :maxdepth: 2
    :caption: Contents:
    
+   prereq
    travis
    readthedocs
 
